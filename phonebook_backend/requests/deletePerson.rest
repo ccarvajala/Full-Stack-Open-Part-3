@@ -1,0 +1,1 @@
+DELETE https://secret-wave-41277.herokuapp.com/api/persons/1448
